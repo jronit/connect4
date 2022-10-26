@@ -18,6 +18,7 @@ window.onload = function() {
     title.classList.add("gamefinish");
     title.innerText = "Connect Fo";
     document.getElementById("title").appendChild(title);
+    
 }
 
 function setGame() {
